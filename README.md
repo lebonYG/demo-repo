@@ -1,7 +1,9 @@
-# Demo
+# Handwritten Digit Classification Using SVD
+<hr />
+ 
+ A demo of handwritten digit(image) classification using SVD
 
-A demo repository for practice.
+Following the example from this article on SVD classification and eigenfaces
+https://intranet.math.vt.edu/ugresearch/Lassiter_2012_2013.pdf
 
-## Tasks
-
-- Write lots of code!
+Dataset provided by http://yann.lecun.com/exdb/mnist/
